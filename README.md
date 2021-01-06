@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Alina, a Senior Data Scientist and Python Develop 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Alina, a Senior Data Scientist and Python Developer 👨‍💻 working remotely since 2013 🚀</div>  
   
 
 - 🔭 I’m currently working on ML Projects.  
