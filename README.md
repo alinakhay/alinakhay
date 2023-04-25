@@ -15,7 +15,10 @@
 - 📫 Email me at alinakhay@outlook.com for any inquiries.  
   
 
-- Fun fact: Counting starts from zero, not one.  
+- 🌟 Fun fact: Counting starts from zero, not one.  
+- 
+
+- 📝 I regularly write articles on https://medium.com/@alinakhay
   
 
 <br/>  
@@ -57,6 +60,7 @@
 <br/>  
 
 
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/alinakhay" target="_blank">
@@ -67,11 +71,5 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=e9gvm7fo0ihadhhaf701owdjz&cover_image=true&theme=default" /></div>  
-
-<br/>  
 
 
