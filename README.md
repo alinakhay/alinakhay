@@ -16,7 +16,7 @@
   
 
 - 🌟 Fun fact: Counting starts from zero, not one.  
-- 
+
 
 - 📝 I regularly write articles on https://medium.com/@alinakhay
   
@@ -59,7 +59,7 @@
 
 <br/>  
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=alinakhay&theme=yellowdark&hide_border=true&border_radius=7)](https://git.io/streak-stats)
 
 ## Connect with me  
 <div align="center">
