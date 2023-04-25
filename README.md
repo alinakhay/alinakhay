@@ -22,7 +22,10 @@
 
   
 
-<br/>  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alinakhay&theme=ocean-gradient&hide_border=true&border_radius=7" alt="GitHub Streak">
+</p>
 
 
 ## My Skill Set  
@@ -60,9 +63,6 @@
 
 <br/>  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alinakhay&theme=yellowdark&hide_border=true&border_radius=7" alt="GitHub Streak">
-</p>
 
 ## Connect with me  
 <div align="center">
