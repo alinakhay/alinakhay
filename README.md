@@ -19,6 +19,9 @@
 
 
 - 📝 I regularly write articles on https://medium.com/@alinakhay
+
+
+[![Alina Khay Medium](https://github-readme-medium.vercel.app/?username=alinakhay)](https://medium.com/@alinakhay)
   
 
 <br/>  
@@ -59,7 +62,9 @@
 
 <br/>  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=alinakhay&theme=yellowdark&hide_border=true&border_radius=7)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alinakhay&theme=yellowdark&hide_border=true&border_radius=7" alt="GitHub Streak">
+</p>
 
 ## Connect with me  
 <div align="center">
