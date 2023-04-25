@@ -20,8 +20,6 @@
 
 - 📝 I regularly write articles on https://medium.com/@alinakhay
 
-
-[![Alina Khay Medium](https://github-readme-medium.vercel.app/?username=alinakhay)](https://medium.com/@alinakhay)
   
 
 <br/>  
