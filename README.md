@@ -18,13 +18,13 @@
 - 🌟 Fun fact: Counting starts from zero, not one.  
 
 
-- 📝 I regularly write articles on https://medium.com/@alinakhay
+- 📝 I regularly write articles on https://alinakhay.com/blog
 
   
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=alinakhay&theme=ocean-gradient&hide_border=true&border_radius=7" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=alinakhay&theme=dark&hide_border=true&border_radius=7" alt="GitHub Streak">
 </p>
 
 
