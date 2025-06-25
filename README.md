@@ -12,13 +12,13 @@
 - 👯 I’m looking to collaborate on Interesting projects.  
   
 
-- 📫 Email me at alinakhay@outlook.com for any inquiries.  
+- 📫 Connect with me [here](https://www.linkedin.com/in/alinakhay)  
   
 
 - 🌟 Fun fact: Counting starts from zero, not one.  
 
 
-- 📝 I regularly write articles on https://alinakhay.com/blog
+- 📝 I regularly write articles on my [website](https://alinakhay.com/)
 
   
 
