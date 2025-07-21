@@ -6,10 +6,10 @@
 ### <div align="center">I'm Alina, a Quantitative Data Scientist and Python Developer 📈 🚀</div>  
   
 
-- 🔭 I’m currently working on ML Projects.  
+- 🔭 I’m currently working on Machine Learning in Finance.  
   
 
-- 👯 I’m looking to collaborate on Interesting projects.  
+- 🤝 I’m looking to collaborate on Interesting projects.  
   
 
 - 📫 Connect with me [here](https://www.linkedin.com/in/alinakhay)  
