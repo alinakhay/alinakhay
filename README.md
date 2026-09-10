@@ -18,9 +18,11 @@
 
 ## About
 
-I'm a **Senior AI / ML Scientist and Engineer** with 10+ years of experience building and operating production machine-learning systems across **payments, marketplaces, personalisation, and quantitative finance**.
+I’m a **Senior AI/ML Scientist and Engineer** with 10+ years of experience building and operating production AI and machine-learning systems across **payments, marketplaces, personalisation, and quantitative finance**. I’ve worked across applied research, modelling, inference, deployment, monitoring, and production platform architecture, with experience in both high-scale and regulated environments.
 
-My recent work spans **LLM and agent systems, retrieval, model evaluation, inference optimisation, distributed ML, MLOps, and production platform engineering**. I also bring a quantitative background in pricing, forecasting, experimentation, risk, and financial modelling.
+My recent work focuses on **LLMs, agentic systems, retrieval, model evaluation, inference optimisation, and production AI infrastructure**, including reliable deployment, observability, lifecycle controls, and MLOps. Earlier work spans **recommendation, forecasting, pricing, experimentation, risk, and quantitative modelling**, giving me a broad foundation across machine learning, statistical methods, and software engineering.
+
+I’m most interested in problems where **AI capability meets production reliability**: turning promising models into systems that can operate efficiently, safely and at scale.
 
 I write about **AI, machine learning, financial markets, and quantitative research** on [alinakhay.com](https://alinakhay.com/).
 
@@ -92,7 +94,6 @@ I write about **AI, machine learning, financial markets, and quantitative resear
   <img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-7B61FF?style=for-the-badge" alt="LoRA / QLoRA" />
   <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge" alt="MCP" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
 </p>
 
 </details>
@@ -125,7 +126,6 @@ I write about **AI, machine learning, financial markets, and quantitative resear
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
 
 </details>
@@ -140,7 +140,6 @@ I write about **AI, machine learning, financial markets, and quantitative resear
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
   <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
@@ -164,7 +163,7 @@ I write about **AI, machine learning, financial markets, and quantitative resear
 
 ## Current interests
 
-`Production AI` · `Agentic Systems` · `LLM Evaluation` · `ML Platforms` · `Distributed ML` · `Financial Technology` · `Quantitative Finance`
+`Production AI` · `Agentic Systems` · `LLM Evaluation` · `ML Platforms` · `Financial Technology` · `Quantitative Finance`
 
 ---
 
