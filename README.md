@@ -152,20 +152,11 @@ I regularly publish articles on **AI, machine learning, financial markets, and q
 
 ---
 
-## GitHub snapshot
+## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alinakhay&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinakhay&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=alinakhay&theme=transparent&hide_border=true&border_radius=8" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alinakhay&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
+<img src="https://streak-stats.demolab.com?user=alinakhay&theme=transparent&hide_border=true&border_radius=8" alt="GitHub contribution streak" />
 
 </div>
 
