@@ -28,54 +28,27 @@ I write about **AI, machine learning, financial markets, and quantitative resear
 
 ---
 
-## Focus areas
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## Areas of Expertise
 
 ### 🤖 AI Engineering
-- LLM and agent systems
-- Retrieval and embeddings
-- Model adaptation and inference
-- Evaluation and observability
-- Production AI applications
-
-</td>
-<td width="50%" valign="top">
+- LLM and agentic applications
+- Retrieval, embeddings, and RAG
+- Evaluation, inference optimisation, and observability
 
 ### ⚙️ ML Systems
-- Distributed training and inference
-- Batch and streaming pipelines
-- Model lifecycle and monitoring
-- MLOps and platform engineering
-- Production reliability
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+- Scalable inference and data pipelines
+- MLOps, deployment, and model lifecycle
+- Monitoring, reliability, and production platforms
 
 ### 📊 Applied Machine Learning
-- Forecasting and ranking
+- Forecasting, ranking, and recommendation
 - Classification and anomaly detection
-- Recommendation and personalisation
-- Experimentation and calibration
-- Large-scale feature engineering
+- Experimentation, calibration, and feature engineering
 
-</td>
-<td width="50%" valign="top">
-
-### 📈 Quantitative Background
-- Quantitative finance
-- Statistical modelling
-- Monte Carlo methods
-- Market and risk analytics
-- Financial data
-
-</td>
-</tr>
-</table>
+### 📈 Quantitative Modelling
+- Quantitative finance and statistical modelling
+- Monte Carlo and scenario analysis
+- Market, risk, and financial data analytics
 
 ---
 
