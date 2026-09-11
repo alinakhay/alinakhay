@@ -28,6 +28,18 @@ I write about **AI, machine learning, financial markets, and quantitative resear
 
 ---
 
+## Selected systems
+
+| Project | What it demonstrates |
+| --- | --- |
+| **[CatalystLens](https://github.com/alinakhay/finrag-analyst)** | A self-hosted financial research application with FastAPI, local LoRA inference, evaluation, observability, Docker Compose, CI and a [live product demo](https://alinakhay.github.io/finrag-analyst/). |
+| **[Cross-Asset Shock Diffusion](https://github.com/alinakhay/cross-asset-shock-diffusion)** | Leakage-aware quantitative research with chronological validation, next-open execution, transaction costs, risk controls and reproducible reports. |
+| **[Quant Regime Engine](https://github.com/alinakhay/Quant-Regime-Engine)** | A deterministic, independently tested factor and regime engine designed to remain auditable when called by an AI agent. |
+
+These repositories use synthetic or public data and make their assumptions and limitations explicit. They demonstrate engineering and research methods rather than investment performance.
+
+---
+
 ## Areas of Expertise
 
 ### 🤖 AI Engineering
