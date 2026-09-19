@@ -1,187 +1,34 @@
-<div align="center">
+# Alina Khay
 
-# Hi, I'm Alina 👋
+**Senior AI/ML scientist and engineer building reliable production systems, with a quantitative-markets research background.**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2600&pause=900&color=6C63FF&center=true&vCenter=true&width=820&lines=Senior+AI+%2F+ML+Scientist;Production+AI+%26+ML+Systems;LLMs+%C2%B7+Agents+%C2%B7+Retrieval;Distributed+ML+%C2%B7+MLOps+%C2%B7+Platform+Engineering)](https://git.io/typing-svg)
-
-**Senior AI / ML Scientist · Production AI & ML Systems · Quantitative Background**
-
-[![Website](https://img.shields.io/badge/Website-alinakhay.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://alinakhay.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alina%20Khay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alinakhay)
-[![GitHub](https://img.shields.io/badge/GitHub-alinakhay-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alinakhay)
-
-![Profile Views](https://komarev.com/ghpvc/?username=alinakhay&style=flat-square&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-## About
-
-I’m a **Senior AI/ML Scientist and Engineer** with 10+ years of experience building and operating production AI and machine-learning systems across **payments, marketplaces, personalisation, and quantitative finance**. I’ve worked across applied research, modelling, inference, deployment, monitoring, and production platform architecture, with experience in both high-scale and regulated environments.
-
-My recent work focuses on **LLMs, agentic systems, retrieval, model evaluation, inference optimisation, and production AI infrastructure**, including reliable deployment, observability, lifecycle controls, and MLOps. Earlier work spans **recommendation, forecasting, pricing, experimentation, risk, and quantitative modelling**, giving me a broad foundation across machine learning, statistical methods, and software engineering.
-
-I’m most interested in problems where **AI capability meets production reliability**: turning promising models into systems that can operate efficiently, safely and at scale.
-
-I write about **AI, machine learning, financial markets, and quantitative research** on [alinakhay.com](https://alinakhay.com/).
-
----
+I work across applied research, modelling, deployment, evaluation and production AI infrastructure. My focus is the boundary between model capability and operational reliability: systems that are measurable, auditable and safe to run at scale.
 
 ## Selected systems
 
 | Project | What it demonstrates |
 | --- | --- |
-| **[CatalystLens](https://github.com/alinakhay/finrag-analyst)** | A self-hosted financial research application with FastAPI, local LoRA inference, evaluation, observability, Docker Compose, CI and a [live product demo](https://alinakhay.github.io/finrag-analyst/). |
-| **[Cross-Asset Shock Diffusion](https://github.com/alinakhay/cross-asset-shock-diffusion)** | Leakage-aware quantitative research with chronological validation, next-open execution, transaction costs, risk controls and reproducible reports. |
-| **[Quant Regime Engine](https://github.com/alinakhay/Quant-Regime-Engine)** | A deterministic, independently tested factor and regime engine designed to remain auditable when called by an AI agent. |
+| [CatalystLens](https://github.com/alinakhay/finrag-analyst) | An evidence-checked financial catalyst research application with FastAPI, optional local LoRA inference, citation validation, abstention, observability, CI and a [live demo](https://alinakhay.github.io/finrag-analyst/). |
+| [Quant Regime Engine](https://github.com/alinakhay/Quant-Regime-Engine) | A deterministic, independently tested factor and regime engine designed to remain auditable when called by an AI agent. |
+| [Cross-Asset Shock Diffusion](https://github.com/alinakhay/cross-asset-shock-diffusion) | Leakage-aware quantitative research with chronological validation, next-open execution, transaction costs, falsification tests and reproducible reports. [Paper and DOI](https://doi.org/10.5281/zenodo.22177740). |
 
-These repositories use synthetic or public data and make their assumptions and limitations explicit. They demonstrate engineering and research methods rather than investment performance.
+These repositories use public or synthetic data and state their assumptions, evaluation boundaries and limitations. They demonstrate engineering and research methods rather than investment performance.
 
----
+## Core work
 
-## Areas of Expertise
+- **Production AI:** LLM and agentic applications, retrieval, evaluation, inference optimisation, observability and lifecycle controls
+- **Applied ML:** forecasting, ranking, recommendation, experimentation, calibration and feature engineering
+- **ML platforms:** scalable inference and data pipelines, deployment, monitoring and reliability
+- **Quantitative research:** temporal validation, market regimes, transaction costs, risk and reproducibility
 
-### 🤖 AI Engineering
-- LLM and agentic applications
-- Retrieval, embeddings, and RAG
-- Evaluation, inference optimisation, and observability
+## Research and writing
 
-### ⚙️ ML Systems
-- Scalable inference and data pipelines
-- MLOps, deployment, and model lifecycle
-- Monitoring, reliability, and production platforms
+I publish evidence-led work on AI, machine learning, macro and quantitative markets.
 
-### 📊 Applied Machine Learning
-- Forecasting, ranking, and recommendation
-- Classification and anomaly detection
-- Experimentation, calibration, and feature engineering
+- [Research and publications](https://alinakhay.com/p/research-and-publications)
+- [Writing and market research](https://alinakhay.com/)
+- [Google Scholar](https://scholar.google.com/citations?user=zBBA4UYAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0009-0007-2586-842X)
+- [LinkedIn](https://www.linkedin.com/in/alinakhay/)
 
-### 📈 Quantitative Modelling
-- Quantitative finance and statistical modelling
-- Monte Carlo and scenario analysis
-- Market, risk, and financial data analytics
-
----
-
-## Tech stack
-
-<details open>
-<summary><b>🧠 AI & LLM Systems</b></summary>
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-  <img src="https://img.shields.io/badge/RAG-5A67D8?style=for-the-badge" alt="RAG" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" alt="FAISS" />
-  <img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA-7B61FF?style=for-the-badge" alt="LoRA / QLoRA" />
-  <img src="https://img.shields.io/badge/MCP-111111?style=for-the-badge" alt="MCP" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-</p>
-
-</details>
-
-<details open>
-<summary><b>📐 Machine Learning & Modelling</b></summary>
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" alt="LightGBM" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge" alt="Transformers" />
-  <img src="https://img.shields.io/badge/Forecasting-4B8BBE?style=for-the-badge" alt="Forecasting" />
-  <img src="https://img.shields.io/badge/Experimentation-6A5ACD?style=for-the-badge" alt="Experimentation" />
-  <img src="https://img.shields.io/badge/SHAP-0081CB?style=for-the-badge" alt="SHAP" />
-</p>
-
-</details>
-
-<details open>
-<summary><b>☁️ MLOps & Platform Engineering</b></summary>
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="SageMaker" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-</p>
-
-</details>
-
-<details open>
-<summary><b>🌐 Data & Distributed Systems</b></summary>
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-</details>
-
-<details open>
-<summary><b>🛠 Languages & Core Tools</b></summary>
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-</details>
-
----
-
-## Current interests
-
-`Production AI` · `Agentic Systems` · `LLM Evaluation` · `ML Platforms` · `Financial Technology` · `Quantitative Finance`
-
----
-
-## Writing
-
-I regularly publish articles on **AI, machine learning, financial markets, and quantitative research**.
-
-<div align="center">
-
-### [→ Read my latest work on alinakhay.com](https://alinakhay.com/)
-
-</div>
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=alinakhay&theme=transparent&hide_border=true&border_radius=8" alt="GitHub contribution streak" />
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-Visit-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://alinakhay.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alinakhay)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alinakhay)
-
-**Open to senior AI / ML engineering, applied science, and quantitative technology opportunities.**
-
-</div>
+Open to senior AI/ML engineering, applied science and quantitative-technology opportunities.
